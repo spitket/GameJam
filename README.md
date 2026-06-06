@@ -1,4 +1,4 @@
-## Gamejam UNIACC 2023
+## GameJam UNIACC 2023
 ***2nd Place*** [Test in itch.io](https://gaspulve.itch.io/show-night)
 
 Made in collaboration with J.G and D.S
